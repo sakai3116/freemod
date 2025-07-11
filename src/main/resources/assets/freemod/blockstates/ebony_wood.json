@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "freemod:block/ebony_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "freemod:block/ebony_wood"
+    },
+    "axis=z": {
+      "model": "freemod:block/ebony_wood",
+      "x": 90
+    }
+  }
+}

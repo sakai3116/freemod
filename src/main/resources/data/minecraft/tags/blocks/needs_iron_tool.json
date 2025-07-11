@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "freemod:citrine_ore",
+    "freemod:citrine_block",
+    "freemod:raw_citrine_block",
+    "freemod:deepslate_citrine_ore",
+    "freemod:netherrack_citrine_ore",
+    "freemod:endstone_citrine_ore",
+    "freemod:acid_tank"
+  ]
+}

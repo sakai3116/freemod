@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "freemod:ebony_log",
+    "freemod:ebony_wood",
+    "freemod:stripped_ebony_log",
+    "freemod:stripped_ebony_wood"
+  ]
+}

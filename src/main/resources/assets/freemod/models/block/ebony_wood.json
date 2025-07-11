@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "freemod:block/ebony_log",
+    "side": "freemod:block/ebony_log"
+  }
+}

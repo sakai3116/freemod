@@ -1,0 +1,53 @@
+{
+  "itemGroup.freemodtab" : "FreeMod Tab",
+
+  "item.freemod.dowsing_rod" : "Dowsing Rod",
+  "item.freemod.citrine" : "Citrine",
+  "item.freemod.raw_citrine" : "Raw Citrine",
+  "item.freemod.cucumber" : "Cucumber",
+  "item.freemod.coal_coke" : "Coal Coke",
+
+  "item.freemod.citrine_pickaxe" : "Citrine Pickaxe",
+  "item.freemod.citrine_axe" : "Citrine Axe",
+  "item.freemod.citrine_shovel" : "Citrine Shovel",
+  "item.freemod.citrine_hoe" : "Citrine Hoe",
+  "item.freemod.citrine_sword" : "Citrine Sword",
+
+  "item.freemod.citrine_helmet" : "Citrine Helmeet",
+  "item.freemod.citrine_chestplate" : "Citrine Chestplate",
+  "item.freemod.citrine_leggings" : "Citrine Legging",
+  "item.freemod.citrine_boots" : "Citrine Boots",
+
+  "item.freemod.onsen_bucket" : "Onsen Bucket",
+
+
+  "block.freemod.citrine_block" : "Citrine Block",
+  "block.freemod.raw_citrine_block" : "Raw_Citrine Block",
+  "block.freemod.citrine_ore" : "Citrine Ore",
+  "block.freemod.deepslate_citrine_ore" : "Deepslate Citrine Ore",
+  "block.freemod.netherrack_citrine_ore" : "Netherrack Citrine Ore",
+  "block.freemod.endstone_citrine_ore" : "Endstone Citrine Ore",
+  "block.freemod.speedy_block" : "Speedy Block",
+
+  "block.freemod.citrine_slab" : "Citrine_Slab",
+  "block.freemod.citrine_stairs" : "Citrine_Stairs",
+  "block.freemod.citrine_fence" : "Citrine_Fence",
+  "block.freemod.citrine_wall" : "Citrine_Wall",
+  "block.freemod.citrine_fence_gate" : "Citrine_Fence_Gate",
+
+  "block.freemod.citrine_button" : "Citrine Button",
+  "block.freemod.citrine_pressure_plate" : "Citrine Pressure Plate",
+  "block.freemod.ebony_door" : "Ebony Door",
+  "block.freemod.ebony_trapdoor" : "Ebony Trapdoor",
+
+
+  "item.freemod.dowsing_rod.no_valuables" : "No Valuables Found!",
+  "tooltip,freemod.dowsing_rod.tooltip.shift" : "Right Click to find Valuables!",
+  "tooltip,freemod.dowsing_rod.tooltip" : "Press §eSHIFT§r for more Information!",
+  "tooltip.freemod.block.speedy_block" : "I am speed!",
+
+  "block.freemod.acid_tank" : "Acid Tank",
+  "item.freemod.acid_bucket" : "Acid Bucket"
+
+
+}
